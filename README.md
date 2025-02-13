@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Taj Ikhlaas</h1>
 <h3 align="center">A Fullstack Engineer from the US</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tajdotgit" alt="tajdotgit" /></a> </p>
+- 🔭 I’m currently working on **A portfolio website**
+
+- 🌱 I’m currently learning **Swift, and React Native**
 
 - 📫 How to reach me **tajikhlaas@gmail.com**
 
