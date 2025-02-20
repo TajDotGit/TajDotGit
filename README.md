@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Taj Ikhlaas</h1>
 <h3 align="center">A Fullstack Engineer from the US</h3>
 
-- 🔭 I’m currently working on **A portfolio website**
+- 🔭 I’m currently working on **financial prediction python application**
 
-- 🌱 I’m currently learning **Swift, and React Native**
+- 🌱 I’m currently learning **React Native, React**
 
 - 📫 How to reach me **tajikhlaas@gmail.com**
 
